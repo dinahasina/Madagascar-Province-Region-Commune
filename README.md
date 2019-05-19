@@ -19,3 +19,4 @@ Dans ce projet, je voudrai aider tout le monde (développeur) à avoir les donn�
 
 **N'oubliez pas de contribuer et de m'aider à le finir**
 
+Je vais ajouter les donnes de instat avec cette base de donne
